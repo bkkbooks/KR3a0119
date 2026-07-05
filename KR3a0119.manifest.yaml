@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3a0119_001.yaml, hash: 'sha256:00bbfb32a24ba3997b4d51301665c01e069d4c2c818ef387901c161603c48f73'}
+  - {seq: 1, filename: KR3a0119_001.yaml, hash: 'sha256:711966f8d7ed4ac73f82b7cec4b13659a9c5d60d6cb3d5692339c07816db6a12'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3a0119_001.markers.yaml, hash: 'sha256:289df842881d62955cb85aa473e438967e9111b60b2cdf6ceda918edb16f65ea'}
+  - {seq: 1, role: markers, filename: assets/KR3a0119_001.markers.yaml, hash: 'sha256:072ec00978642175b58377154e52ea04e33b47d737549b067dd6b55ed66dc017'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 周生子要論
   type: section
   level: 1
-hash: sha256:81ac158698dca1d2e6438b178f07b94dd2fc7f50744df105dd43411b87bdd2d4
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:83bc4687431ff80d043ac4976bee9c423045aebf97211326fa72373c28145279
