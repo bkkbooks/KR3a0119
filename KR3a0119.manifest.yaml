@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3a0119/v1
 canonical_location: https://kanripo.org/bkk/KR3a0119/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 周生子要論一卷
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3a0119_001.yaml, hash: 'sha256:711966f8d7ed4ac73f82b7cec4b13659a9c5d60d6cb3d5692339c07816db6a12'}
+  - {seq: 1, filename: KR3a0119_001.yaml, hash: 'sha256:00bbfb32a24ba3997b4d51301665c01e069d4c2c818ef387901c161603c48f73'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3a0119_001.markers.yaml, hash: 'sha256:072ec00978642175b58377154e52ea04e33b47d737549b067dd6b55ed66dc017'}
+  - {seq: 1, role: markers, filename: assets/KR3a0119_001.markers.yaml, hash: 'sha256:f99e63f024675c77810a54fbfb0fa3c2200aba91521cd5e49f6062a8886f533a'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,4 +31,7 @@ table_of_contents:
   label: 周生子要論
   type: section
   level: 1
-hash: sha256:83bc4687431ff80d043ac4976bee9c423045aebf97211326fa72373c28145279
+hash: sha256:c1e4559501e7819020a3898a5b5ccf6d78acebd6bc159b89280f1c31354a796e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
